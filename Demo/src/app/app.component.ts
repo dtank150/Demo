@@ -26,4 +26,8 @@ export class AppComponent {
       age:18
     }
   ]
+  item={
+    name:'Krishna',
+    age:20
+  }
 }
